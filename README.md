@@ -27,7 +27,7 @@ Each model is designed for portfolio-level risk estimation and includes:
 
   • Plots for VaR, CVaR, and breach events
 
-  • Backtesting breach counts and rates with Basel traffic-light style interpretation
+  • Backtesting breach counts and rates
 
 📈 Methodology Summary
 1. Historical Method
