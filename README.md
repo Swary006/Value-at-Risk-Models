@@ -53,7 +53,7 @@ Each model is designed for portfolio-level risk estimation and includes:
   Clone the repo
 
     git clone https://github.com/Swary006/Value-at-Risk-Models.git
-    cd var-models
+    cd Value-at-Risk-Models
 
   Install dependencies
 
